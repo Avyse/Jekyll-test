@@ -1,0 +1,5 @@
+---
+layout: post
+author: admin
+---
+Newest version 15.0 of enova365 now available. Contact your support for more informations.
